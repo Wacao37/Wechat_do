@@ -7,7 +7,7 @@ using System.Text;
 
 namespace MarkDAL
 {
-    class SujectService
+    public class SujectService
     {
         //添加课程,返回课程id
         public int addSubject(ref SubjectClass suject)
